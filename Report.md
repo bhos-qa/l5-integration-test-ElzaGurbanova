@@ -28,6 +28,6 @@ The following commands can be run to get result of IT
     ./gradlew test
 ```
 
-## TEST RESULTS
+[//]: # (## TEST RESULTS)
 
-![result](./TestResult.png)
+[//]: # (![result]&#40;./TestResult.png&#41;)
