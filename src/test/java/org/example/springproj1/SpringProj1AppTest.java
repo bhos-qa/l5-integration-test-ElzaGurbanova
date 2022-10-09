@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.*;
 @SpringBootTest
 @ExtendWith(SpringExtension.class)
 @WebAppConfiguration
-class Springproj1AppTest {
+class SpringProj1AppTest {
 
     public boolean isValid(String response) {
         try {
